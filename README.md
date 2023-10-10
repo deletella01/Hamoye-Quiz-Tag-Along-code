@@ -1,2 +1,2 @@
-# Hamoye_Tag_code
-This is the submission of hamoye quiz  tag along code 
+# Hamoye Tag-Along code
+This repository showcases how the result provided in Hamoye Stage quizzes  were achieved.
